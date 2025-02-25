@@ -1,0 +1,37 @@
+[
+  {
+    "id": "P001",
+    "nombre": "Camiseta Básica",
+    "precio": 15.99,
+    "descripcion": "Camiseta de algodón 100% en varios colores y tallas.",
+    "categoria": "Ropa"
+  },
+  {
+    "id": "P002",
+    "nombre": "Auriculares Inalámbricos",
+    "precio": 49.99,
+    "descripcion": "Auriculares Bluetooth con cancelación de ruido y batería de larga duración.",
+    "categoria": "Electrónica"
+  },
+  {
+    "id": "P003",
+    "nombre": "Botella de Acero Inoxidable",
+    "precio": 12.50,
+    "descripcion": "Botella térmica de 750 ml que mantiene líquidos fríos o calientes.",
+    "categoria": "Accesorios"
+  },
+  {
+    "id": "P004",
+    "nombre": "Mochila Deportiva",
+    "precio": 34.90,
+    "descripcion": "Mochila resistente al agua con múltiples compartimentos.",
+    "categoria": "Deportes"
+  },
+  {
+    "id": "P005",
+    "nombre": "Lámpara LED de Escritorio",
+    "precio": 22.00,
+    "descripcion": "Lámpara LED con brazo ajustable y control de brillo táctil.",
+    "categoria": "Hogar"
+  }
+]
