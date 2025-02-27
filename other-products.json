@@ -1,0 +1,72 @@
+[
+  {
+    "id": "OT001",
+    "nombre": "Aceite de oliva virgen extra",
+    "precio": 6.99,
+    "descripcion": "Aceite prensado en frío con un alto contenido en antioxidantes.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT002",
+    "nombre": "Leche de almendras",
+    "precio": 2.99,
+    "descripcion": "Bebida vegetal sin lactosa, rica en calcio y baja en calorías.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT003",
+    "nombre": "Mermelada de fresa",
+    "precio": 3.50,
+    "descripcion": "Dulce elaborado con fresas naturales y azúcar.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT004",
+    "nombre": "Miel de flores",
+    "precio": 5.49,
+    "descripcion": "Endulzante natural producido por las abejas con propiedades antioxidantes.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT005",
+    "nombre": "Pasta de trigo integral",
+    "precio": 2.79,
+    "descripcion": "Pasta elaborada con harina de trigo integral, más rica en fibra.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT006",
+    "nombre": "Cacao en polvo",
+    "precio": 4.99,
+    "descripcion": "Polvo de cacao puro, ideal para bebidas y repostería.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT007",
+    "nombre": "Frutos secos variados",
+    "precio": 7.50,
+    "descripcion": "Mezcla de almendras, nueces, avellanas y anacardos.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT008",
+    "nombre": "Yogur natural",
+    "precio": 1.29,
+    "descripcion": "Lácteo fermentado sin azúcar añadido, fuente de probióticos.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT009",
+    "nombre": "Harina de avena",
+    "precio": 3.10,
+    "descripcion": "Harina sin gluten ideal para repostería y recetas saludables.",
+    "categoria": "Otros productos"
+  },
+  {
+    "id": "OT010",
+    "nombre": "Té verde",
+    "precio": 4.20,
+    "descripcion": "Bebida antioxidante con propiedades estimulantes y beneficiosas para la salud.",
+    "categoria": "Otros productos"
+  }
+]
