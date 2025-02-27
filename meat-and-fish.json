@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pechuga de pollo",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Carne blanca magra, ideal para dietas bajas en grasa."
+  },
+  {
+    "id": 2,
+    "nombre": "Salmón fresco",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Pescado azul rico en ácidos grasos omega-3 y proteínas."
+  },
+  {
+    "id": 3,
+    "nombre": "Solomillo de ternera",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Corte tierno y jugoso de carne roja de alta calidad."
+  },
+  {
+    "id": 4,
+    "nombre": "Atún en conserva",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Pescado enlatado en aceite o agua, rico en proteínas."
+  },
+  {
+    "id": 5,
+    "nombre": "Chuleta de cerdo",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Corte de cerdo con hueso, ideal para asar o freír."
+  },
+  {
+    "id": 6,
+    "nombre": "Gambas frescas",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Marisco rico en proteínas y bajo en grasa."
+  },
+  {
+    "id": 7,
+    "nombre": "Bacalao desalado",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Pescado blanco muy utilizado en guisos y recetas tradicionales."
+  },
+  {
+    "id": 8,
+    "nombre": "Muslo de pollo",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Carne más jugosa que la pechuga, ideal para hornear."
+  },
+  {
+    "id": 9,
+    "nombre": "Costillas de cordero",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Corte jugoso y tierno, perfecto para la parrilla."
+  },
+  {
+    "id": 10,
+    "nombre": "Trucha fresca",
+    "categoria": "Carnes y pescados",
+    "descripcion": "Pescado de agua dulce con sabor suave y textura firme."
+  }
+]
