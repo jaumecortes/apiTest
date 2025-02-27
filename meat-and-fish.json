@@ -1,62 +1,72 @@
 [
   {
-    "id": 1,
+    "id": "CP001",
     "nombre": "Pechuga de pollo",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Carne blanca magra, ideal para dietas bajas en grasa."
+    "precio": 5.99,
+    "descripcion": "Carne blanca magra, ideal para dietas bajas en grasa.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 2,
+    "id": "CP002",
     "nombre": "Salmón fresco",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Pescado azul rico en ácidos grasos omega-3 y proteínas."
+    "precio": 12.50,
+    "descripcion": "Pescado azul rico en ácidos grasos omega-3 y proteínas.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 3,
+    "id": "CP003",
     "nombre": "Solomillo de ternera",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Corte tierno y jugoso de carne roja de alta calidad."
+    "precio": 22.99,
+    "descripcion": "Corte tierno y jugoso de carne roja de alta calidad.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 4,
+    "id": "CP004",
     "nombre": "Atún en conserva",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Pescado enlatado en aceite o agua, rico en proteínas."
+    "precio": 3.75,
+    "descripcion": "Pescado enlatado en aceite o agua, rico en proteínas.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 5,
+    "id": "CP005",
     "nombre": "Chuleta de cerdo",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Corte de cerdo con hueso, ideal para asar o freír."
+    "precio": 8.49,
+    "descripcion": "Corte de cerdo con hueso, ideal para asar o freír.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 6,
+    "id": "CP006",
     "nombre": "Gambas frescas",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Marisco rico en proteínas y bajo en grasa."
+    "precio": 16.99,
+    "descripcion": "Marisco rico en proteínas y bajo en grasa.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 7,
+    "id": "CP007",
     "nombre": "Bacalao desalado",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Pescado blanco muy utilizado en guisos y recetas tradicionales."
+    "precio": 13.20,
+    "descripcion": "Pescado blanco muy utilizado en guisos y recetas tradicionales.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 8,
+    "id": "CP008",
     "nombre": "Muslo de pollo",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Carne más jugosa que la pechuga, ideal para hornear."
+    "precio": 4.50,
+    "descripcion": "Carne más jugosa que la pechuga, ideal para hornear.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 9,
+    "id": "CP009",
     "nombre": "Costillas de cordero",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Corte jugoso y tierno, perfecto para la parrilla."
+    "precio": 18.75,
+    "descripcion": "Corte jugoso y tierno, perfecto para la parrilla.",
+    "categoria": "Carnes y pescados"
   },
   {
-    "id": 10,
+    "id": "CP010",
     "nombre": "Trucha fresca",
-    "categoria": "Carnes y pescados",
-    "descripcion": "Pescado de agua dulce con sabor suave y textura firme."
+    "precio": 10.99,
+    "descripcion": "Pescado de agua dulce con sabor suave y textura firme.",
+    "categoria": "Carnes y pescados"
   }
 ]
