@@ -1,70 +1,70 @@
 [
   {
     "product_id": "CP001",
-    "nombre": "Pechuga de pollo",
+    "nombre": "pechuga de pollo",
     "precio": 5.99,
     "descripcion": "Carne blanca magra, ideal para dietas bajas en grasa.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP002",
-    "nombre": "Salmón fresco",
+    "nombre": "salmón fresco",
     "precio": 12.50,
     "descripcion": "Pescado azul rico en ácidos grasos omega-3 y proteínas.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP003",
-    "nombre": "Solomillo de ternera",
+    "nombre": "solomillo de ternera",
     "precio": 22.99,
     "descripcion": "Corte tierno y jugoso de carne roja de alta calidad.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP004",
-    "nombre": "Atún en conserva",
+    "nombre": "atún en conserva",
     "precio": 3.75,
     "descripcion": "Pescado enlatado en aceite o agua, rico en proteínas.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP005",
-    "nombre": "Chuleta de cerdo",
+    "nombre": "chuleta de cerdo",
     "precio": 8.49,
     "descripcion": "Corte de cerdo con hueso, ideal para asar o freír.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP006",
-    "nombre": "Gambas frescas",
+    "nombre": "gambas frescas",
     "precio": 16.99,
     "descripcion": "Marisco rico en proteínas y bajo en grasa.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP007",
-    "nombre": "Bacalao desalado",
+    "nombre": "bacalao desalado",
     "precio": 13.20,
     "descripcion": "Pescado blanco muy utilizado en guisos y recetas tradicionales.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP008",
-    "nombre": "Muslo de pollo",
+    "nombre": "muslo de pollo",
     "precio": 4.50,
     "descripcion": "Carne más jugosa que la pechuga, ideal para hornear.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP009",
-    "nombre": "Costillas de cordero",
+    "nombre": "costillas de cordero",
     "precio": 18.75,
     "descripcion": "Corte jugoso y tierno, perfecto para la parrilla.",
     "categoria": "Carnes y pescados"
   },
   {
     "product_id": "CP010",
-    "nombre": "Trucha fresca",
+    "nombre": "trucha fresca",
     "precio": 10.99,
     "descripcion": "Pescado de agua dulce con sabor suave y textura firme.",
     "categoria": "Carnes y pescados"
