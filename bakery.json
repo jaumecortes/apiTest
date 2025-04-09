@@ -1,70 +1,70 @@
 [
   {
     "id": "PB001",
-    "nombre": "Pan de centeno",
+    "nombre": "pan de centeno",
     "precio": 2.99,
     "descripcion": "Pan oscuro con un alto contenido en fibra y sabor intenso.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB002",
-    "nombre": "Croissant de mantequilla",
+    "nombre": "croissant de mantequilla",
     "precio": 1.50,
     "descripcion": "Bollo hojaldrado de origen francés con sabor a mantequilla.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB003",
-    "nombre": "Donut glaseado",
+    "nombre": "donut glaseado",
     "precio": 1.25,
     "descripcion": "Rosquilla dulce cubierta con un glaseado de azúcar.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB004",
-    "nombre": "Bizcocho de chocolate",
+    "nombre": "bizcocho de chocolate",
     "precio": 5.99,
     "descripcion": "Postre esponjoso con un intenso sabor a cacao.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB005",
-    "nombre": "Pan de molde integral",
+    "nombre": "pan de molde integral",
     "precio": 3.49,
     "descripcion": "Pan blando con mayor contenido en fibra y más saludable.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB006",
-    "nombre": "Napolitana de crema",
+    "nombre": "napolitana de crema",
     "precio": 1.80,
     "descripcion": "Bollo relleno de crema pastelera con cobertura de azúcar glas.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB007",
-    "nombre": "Magdalena casera",
+    "nombre": "magdalena casera",
     "precio": 0.99,
     "descripcion": "Pequeño bizcocho esponjoso, ideal para el desayuno.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB008",
-    "nombre": "Galletas de avena",
+    "nombre": "galletas de avena",
     "precio": 2.75,
     "descripcion": "Galletas crujientes con alto contenido en fibra y sin azúcares añadidos.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB009",
-    "nombre": "Tarta de manzana",
+    "nombre": "tarta de manzana",
     "precio": 9.99,
     "descripcion": "Postre tradicional con base de masa y relleno de manzana caramelizada.",
     "categoria": "Pan, bollería y pastelería"
   },
   {
     "id": "PB010",
-    "nombre": "Rosquillas de anís",
+    "nombre": "rosquillas de anís",
     "precio": 3.20,
     "descripcion": "Dulce frito con un ligero toque de anís.",
     "categoria": "Pan, bollería y pastelería"
